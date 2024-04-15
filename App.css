@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.game-container {
+    margin-bottom: 20px;
+}
+
+.players, .choices {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+.result {
+    margin-bottom: 20px;
+}
+
+.game-data {
+    width: 50%;
+}
+
+.game-data ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.game-data li {
+    margin-bottom: 5px;
+}
+
